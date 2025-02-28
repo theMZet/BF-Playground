@@ -9,8 +9,8 @@
 
 <div align="center">
   <!-- Github Actions -->
-  <a href="https://github.com/ZiomekMinecraft/rustor/actions/workflows/rust.yml?query=branch%3Amain">
-    <img src="https://img.shields.io/github/actions/workflow/status/ZiomekMinecraft/rustor/rust.yml?branch=main&style=flat-square" alt="actions status" /></a>
+  <a href="https://github.com/ZiomekMinecraft/BF-Playground/actions/workflows/rust.yml?query=branch%3Amain">
+    <img src="https://img.shields.io/github/actions/workflow/status/ZiomekMinecraft/BF-Playground/rust.yml?branch=main&style=flat-square" alt="actions status" /></a>
   <!-- Version -->
   <a href="https://crates.io/crates/bf_playground">
     <img src="https://img.shields.io/crates/v/bf_playground?style=flat-square"
