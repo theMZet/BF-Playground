@@ -42,7 +42,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bf_playground.git
+git clone https://github.com/ZiomekMinecraft/bf_playground.git
 cd bf_playground
 ```
 
@@ -58,7 +58,7 @@ To use the library in your project, add the following to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-bf_playground = { path = "path/to/your/bf_playground" }
+bf_playground = "1.0.0"
 ```
 
 Then, you can use it in your code as follows:
