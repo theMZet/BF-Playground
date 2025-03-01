@@ -17,7 +17,8 @@
     alt="Crates.io version" /></a>
   <!-- Docs -->
   <a href="https://docs.rs/bf_playground">
-  <img src="https://img.shields.io/badge/docs-latest-blue.svg?style=flat-square" alt="docs.rs docs" /></a>
+   <img src="https://img.shields.io/badge/docs-latest-blue.svg?style=flat-square" alt="docs.rs docs" />
+  </a>
   <!-- Downloads -->
   <a href="https://crates.io/crates/bf_playground">
     <img src="https://img.shields.io/crates/d/bf_playground.svg?style=flat-square" alt="Download" />
@@ -34,14 +35,14 @@
 
 ### Prerequisites
 
-- Rust (latest stable version)
+- Rust (latest stable version recommended)
 
 ### Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bf_playground.git
+git clone https://github.com/ZiomekMinecraft/bf_playground.git
 cd bf_playground
 ```
 
@@ -57,7 +58,7 @@ To use the library in your project, add the following to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-bf_playground = { path = "path/to/your/bf_playground" }
+bf_playground = "1.0.0"
 ```
 
 Then, you can use it in your code as follows:
