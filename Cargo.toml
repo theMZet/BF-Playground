@@ -8,7 +8,7 @@ readme = "README.md"
 authors = ["MZ"]
 repository = "https://github.com/ZiomekMinecraft/BF-Playground"
 keywords = ["interpreter", "rust", "library"]
-categories = ["development-tools", "interpreters"]
+categories = ["development-tools", "compilers"]
 publish = true
 
 [profile.release]
