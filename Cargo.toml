@@ -7,7 +7,7 @@ license-file = "LICENSE"
 readme = "README.md"
 authors = ["MZ"]
 repository = "https://github.com/ZiomekMinecraft/BF-Playground"
-keywords = ["brainf**k", "interpreter", "rust", "library"]
+keywords = ["brainfuck", "interpreter", "rust", "library"]
 categories = ["development-tools", "interpreters"]
 publish = true
 
