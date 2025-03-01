@@ -2,5 +2,13 @@
 name = "bf_playground"
 version = "1.0.0"
 edition = "2021"
+description = "A interpreter and Rust libary for brainf**k"
+license-file = "LICENSE"
+readme = "README.md"
+authors = ["MZ"]
+repository = "https://github.com/ZiomekMinecraft/BF-Playground"
+keywords = ["brainf**k", "interpreter", "rust", "library"]
+categories = ["development-tools", "interpreters"]
+publish = true
 
 [dependencies]
