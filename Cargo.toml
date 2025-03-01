@@ -11,4 +11,7 @@ keywords = ["brainfuck", "interpreter", "rust", "library"]
 categories = ["development-tools", "interpreters"]
 publish = true
 
+[profile.release]
+opt-level = "z"
+
 [dependencies]
